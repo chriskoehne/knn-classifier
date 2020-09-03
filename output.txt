@@ -1,0 +1,50 @@
+starting testing
+
+k = 5
+correct 70, incorrect 30
+k = 7
+correct 73, incorrect 27
+k = 9
+correct 73, incorrect 27
+k = 11
+correct 72, incorrect 28
+k = 13
+correct 69, incorrect 31
+k = 15
+correct 71, incorrect 29
+k = 17
+correct 70, incorrect 30
+k = 19
+correct 68, incorrect 32
+k = 21
+correct 69, incorrect 31
+k = 23
+correct 67, incorrect 33
+k = 25
+correct 70, incorrect 30
+k = 27
+correct 70, incorrect 30
+k = 29
+correct 69, incorrect 31
+k = 31
+correct 69, incorrect 31
+k = 33
+correct 69, incorrect 31
+k = 35
+correct 72, incorrect 28
+k = 37
+correct 71, incorrect 29
+k = 39
+correct 70, incorrect 30
+k = 41
+correct 66, incorrect 34
+k = 43
+correct 68, incorrect 32
+k = 45
+correct 68, incorrect 32
+k = 47
+correct 67, incorrect 33
+k = 49
+correct 66, incorrect 34
+k = 51
+correct 64, incorrect 36

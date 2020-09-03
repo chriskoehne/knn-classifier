@@ -1,0 +1,54 @@
+/Users/ckoehne/PycharmProjects/Assignment5/venv/bin/python /Users/ckoehne/PycharmProjects/Assignment5/test.py data.csv split
+starting timer
+k = 3
+correct 57, incorrect 43
+Time: 247.40375876426697
+k = 5
+correct 59, incorrect 41
+Time: 483.2487807273865
+k = 7
+correct 60, incorrect 40
+Time: 717.8506727218628
+k = 9
+correct 61, incorrect 39
+Time: 947.3087396621704
+k = 11
+correct 61, incorrect 39
+Time: 1182.4308075904846
+k = 13
+correct 61, incorrect 39
+Time: 1421.9943597316742
+k = 15
+correct 60, incorrect 40
+Time: 1657.3197119235992
+k = 17
+correct 60, incorrect 40
+Time: 1895.2093317508698
+k = 19
+correct 59, incorrect 41
+Time: 2130.1403489112854
+k = 21
+correct 61, incorrect 39
+Time: 2366.213536977768
+k = 23
+correct 60, incorrect 40
+Time: 2596.012912750244
+k = 25
+correct 62, incorrect 38
+Time: 2815.8515787124634
+k = 27
+correct 62, incorrect 38
+Time: 3036.322211742401
+k = 29
+correct 61, incorrect 39
+Time: 3274.6690995693207
+k = 31
+correct 61, incorrect 39
+Time: 3509.3885848522186
+k = 33
+correct 60, incorrect 40
+Time: 3747.2786388397217
+k = 35
+correct 62, incorrect 38
+Time: 3979.421226978302
+k = 37
